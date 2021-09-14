@@ -1,3 +1,9 @@
+/* <UNIME>
+* <BSI>
+* <PROGAMAÇÃO PARA WEB 2>
+* <PABLO ROXO>
+* <LUIS RICARDO SOUSA BORGES>
+*/
 
 <?php
 
